@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Arthur
 #### I am a Frontend Developer
-![I am a Frontend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+//![I am a Frontend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am engaged in web development HTML / CSS / JS, creating web applications on the React + Redux stack and full stack of web applications on the MERN technology stack (MongoDB, Express, React, Node.js)
 
