@@ -6,11 +6,13 @@ I am engaged in web development HTML / CSS / JS, creating web applications on th
 
 <h2>What i can:</h2>
 <hr>
-- Web languages: HTML, Css, Scss, Js, Typescript
-- Js libraries: React + Redux, Material-UI
-- Frameworks: Next.js, Vue.js (basicly)
-- CSS frameworks: Bootstrap, Materialize
-- Database: MongoDB
-- CMS: Wordpress
-- Design tools: Figma
-- I can work with Node.js, Webpack, Git, MERN, React Native, Firebase
+<ul>
+  <li> Web languages: HTML, Css, Scss, Js, Typescript</li>
+  <li> Js libraries: React + Redux, Material-UI</li>
+  <li> Frameworks: Next.js, Vue.js (basicly)</li>
+  <li> CSS frameworks: Bootstrap, Materialize</li>
+  <li> Database: MongoDB</li>
+  <li> CMS: Wordpress</li>
+  <li>Design tools: Figma</li>
+  <li>I can work with Node.js, Webpack, Git, MERN, React Native, Firebase</li>
+</ul>
