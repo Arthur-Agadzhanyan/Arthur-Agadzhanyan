@@ -5,7 +5,6 @@
 I am engaged in web development HTML / CSS / JS, creating web applications on the React + Redux stack and full stack of web applications on the MERN technology stack (MongoDB, Express, React, Node.js)
 
 <h2>What i can:</h2>
-<hr>
 <ul>
   <li> Web languages: HTML, Css, Scss, Js, Typescript</li>
   <li> Js libraries: React + Redux, Material-UI</li>
