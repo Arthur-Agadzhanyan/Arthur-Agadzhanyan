@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, my name is Arthur
+#### I am a Frontend Developer
+![I am a Frontend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Arthur-Agadzhanyan/Arthur-Agadzhanyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am engaged in web development HTML / CSS / JS, creating web applications on the React + Redux stack and full stack of web applications on the MERN technology stack (MongoDB, Express, React, Node.js)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>What i can:</h2>
+<hr>
+- Web languages: HTML, Css, Scss, Js, Typescript
+- Js libraries: React + Redux, Material-UI
+- Frameworks: Next.js, Vue.js (basicly)
+- CSS frameworks: Bootstrap, Materialize
+- Database: MongoDB
+- CMS: Wordpress
+- Design tools: Figma
+- I can work with Node.js, Webpack, Git, MERN, React Native, Firebase
