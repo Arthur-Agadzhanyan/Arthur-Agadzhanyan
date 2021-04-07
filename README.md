@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Arthur
 #### I am a Frontend Developer
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Agadzhanyan&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-agadzhanyan&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 I am engaged in web development HTML / CSS / JS, creating web applications on the React + Redux stack and full stack of web applications on the MERN technology stack (MongoDB, Express, React, Node.js)
 
