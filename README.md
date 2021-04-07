@@ -17,3 +17,6 @@ I am engaged in web development HTML / CSS / JS, creating web applications on th
   <li>Design tools: Figma</li>
   <li>I can work with Node.js, Webpack, Git, MERN, React Native, Firebase</li>
 </ul>
+
+<h2>My contacts:</h2>
+<li>Telegram: <a href='https://t.me/ArchieSup'>@ArchieSup</a></li>
