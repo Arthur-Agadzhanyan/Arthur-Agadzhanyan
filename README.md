@@ -8,7 +8,7 @@ I am engaged in web development HTML / CSS / JS, creating web applications on th
 
 <h2>What i can:</h2>
 <ul>
-  <li> Web languages: HTML, Css, Scss, Js, Typescript</li>
+  <li> Web languages: HTML, Css, Scss, Javascript, Typescript</li>
   <li> Js libraries: React + Redux, Material-UI</li>
   <li> Frameworks: Next.js, Vue.js (basicly)</li>
   <li> CSS frameworks: Bootstrap, Materialize</li>
