@@ -10,7 +10,7 @@ I am engaged in web development HTML / CSS / JS, creating web applications on th
 <ul>
   <li> Web languages: HTML, Css, Scss, Javascript, Typescript</li>
   <li> Js libraries: React + Redux, Material-UI</li>
-  <li> Frameworks: Next.js, Vue.js (basicly)</li>
+  <li> Frameworks: Next.js, Gatsby, Vue.js (basicly)</li>
   <li> CSS frameworks: Bootstrap, Materialize</li>
   <li> Database: MongoDB</li>
   <li> CMS: Wordpress</li>
