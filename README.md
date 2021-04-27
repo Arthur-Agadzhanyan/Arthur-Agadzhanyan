@@ -6,7 +6,7 @@
 <h2> I am a Frontend Developer</h2>
 I am engaged in web development HTML / CSS / JS, creating web applications on the React + Redux stack and full stack of web applications on the MERN technology stack (MongoDB, Express, React, Node.js)
 
-##Stack
+## Stack
 <ul>
   <li> Web languages: HTML, Css, Scss, Javascript, Typescript</li>
   <li> Js libraries: React + Redux, Material-UI</li>
