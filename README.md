@@ -14,7 +14,7 @@ I am engaged in web development HTML / CSS / JS, creating web applications on th
   <li> Database: MongoDB, Firebase</li>
   <li> CMS: Wordpress</li>
   <li>Design tools: Figma, Avocode</li>
-  <li>I can work with Node.js, Webpack, Git, MERN, React Native</li>
+  <li>I can work with Node.js, Webpack, Vite, Git, MERN, React Native</li>
 </ul>
 
 # My contacts:
