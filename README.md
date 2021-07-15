@@ -8,7 +8,7 @@ I am engaged in web development HTML / CSS / JS, creating web applications on th
 # Stack
 <ul>
   <li> Web languages: HTML, Css, Scss, Javascript, Typescript</li>
-  <li> Js libraries: React + Redux, Material-UI, Jqurey</li>
+  <li> Js libraries: React + Redux, Material-UI, Jquery</li>
   <li> Frameworks: Next.js, Gatsby, Vue.js (basicly)</li>
   <li> CSS frameworks: Bootstrap, Materialize</li>
   <li> Database: MongoDB, Firebase</li>
