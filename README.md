@@ -1,7 +1,7 @@
 # Hello, I'm Arthur 👋
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-agadzhanyan&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-agadzhanyan&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-agadzhanyan&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 # I am a Frontend Developer
 I am engaged in web development HTML / CSS / JS, creating web applications on the React + Redux stack and full stack of web applications on the MERN technology stack (MongoDB, Express, React, Node.js)
 
