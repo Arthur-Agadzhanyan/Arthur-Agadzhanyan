@@ -1,5 +1,4 @@
 # Hello, I'm Arthur 👋
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-agadzhanyan&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-agadzhanyan&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # I am a Frontend Developer
