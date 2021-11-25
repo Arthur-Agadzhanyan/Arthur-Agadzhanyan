@@ -9,7 +9,6 @@ I am engaged in web development HTML / CSS / JS, creating web applications on th
   <li> Frameworks: Next.js, Gatsby, Vue.js (basicly)</li>
   <li> CSS frameworks: Bootstrap, Materialize</li>
   <li> Database: MongoDB, Firebase</li>
-  <li> CMS: Wordpress</li>
   <li> Design tools: Figma, Avocode</li>
   <li> I can work with Node.js, Webpack, Vite, Git, MERN, React Native</li>
 </ul>
